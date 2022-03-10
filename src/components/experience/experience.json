@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_experience_experiences",
+  "info": {
+    "displayName": "Experience",
+    "icon": "file-export"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "sub_name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

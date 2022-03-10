@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_project_category_categories",
+  "info": {
+    "displayName": "category",
+    "icon": "certificate"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "collectionName": "components_projects_projects",
+  "info": {
+    "displayName": "projects",
+    "icon": "project-diagram",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "project_name": {
+      "type": "string"
+    },
+    "project_des": {
+      "type": "text"
+    },
+    "category": {
+      "type": "string"
+    },
+    "deployed_url": {
+      "type": "string"
+    },
+    "github_url": {
+      "type": "string"
+    },
+    "project_Image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "key_tech": {
+      "displayName": "key_tech",
+      "type": "component",
+      "repeatable": true,
+      "component": "key-techs.key-tech"
+    }
+  }
+}

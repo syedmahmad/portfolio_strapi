@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_key_techs_key_teches",
+  "info": {
+    "displayName": "key_tech",
+    "icon": "glass-whiskey"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

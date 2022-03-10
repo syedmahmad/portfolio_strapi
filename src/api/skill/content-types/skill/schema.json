@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "skills",
+  "info": {
+    "singularName": "skill",
+    "pluralName": "skills",
+    "displayName": "skill",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "skill": {
+      "displayName": "skill",
+      "type": "component",
+      "repeatable": true,
+      "component": "skill.skill",
+      "required": true
+    }
+  }
+}

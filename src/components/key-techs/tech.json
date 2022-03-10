@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_key_techs_teches",
+  "info": {
+    "displayName": "tech",
+    "icon": "keyboard",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_key_techs_key_techs",
+  "info": {
+    "displayName": "key_techs",
+    "icon": "key"
+  },
+  "options": {},
+  "attributes": {
+    "tech_name": {
+      "type": "string"
+    }
+  }
+}

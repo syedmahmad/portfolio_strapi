@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_education_educations",
+  "info": {
+    "displayName": "education",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "Degree": {
+      "type": "string"
+    },
+    "university_name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
